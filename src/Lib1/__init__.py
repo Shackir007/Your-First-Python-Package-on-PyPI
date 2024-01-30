@@ -1,0 +1,1 @@
+from .MainModuleLib1 import lib1_add_one
